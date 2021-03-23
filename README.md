@@ -1,6 +1,19 @@
 # webrtc
 
-> A Vue.js project
+> A Vue.js webrtc project
+
+## Important
+``` bash
+# change the server connection address
+App.vue in localSocket method 
+that.ws = new WebSocket("ws://"+ '192.168.1.120:8087');
+
+# operating environment
+MacOS chrome 
+
+# browser choose
+chrome firefox 
+```
 
 ## Build Setup
 
@@ -27,4 +40,18 @@ npm run e2e
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Contact
+If you need further help to do business, you can contact below
+#### wechat
+
+
+
+
+
+#### qq
+328555416
+
+#### email
+mailyzhao@163.com
+
+
