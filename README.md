@@ -42,7 +42,7 @@ npm test
 
 ## Server Project
 a webrtc server  project
-[webrtcServer][https://github.com/NeonGarden/webrtcServer/tree/main]
+[webrtcServer](https://github.com/NeonGarden/webrtcServer/tree/main)
 
 ## Contact
 
