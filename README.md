@@ -5,7 +5,7 @@
 ## Important
 ``` bash
 # change the server connection address
-App.vue in localSocket method 
+find App.vue file and change localSocket method 
 that.ws = new WebSocket("ws://"+ '192.168.1.120:8087');
 
 # operating environment
