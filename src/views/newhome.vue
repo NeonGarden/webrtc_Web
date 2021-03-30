@@ -100,6 +100,13 @@ export default {
                     this.closePeerConnection(k)
             }
         },
+        videosSrcObject(){
+            this.videos.forEach(username => {
+                let stream = this.videoStreams[username];
+                let video = document.querySelector('#video-' + username);
+                video.srcObject = stream;
+            })
+        },
     }
 
 }
